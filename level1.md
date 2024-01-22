@@ -1,6 +1,6 @@
 #Training: Warchall - The Beginning
+##00_welcome
 ```sh
-00_welcome
 cd /home/level/00_welcome
 ls
 cat README.md
