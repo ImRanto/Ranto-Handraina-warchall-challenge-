@@ -13,7 +13,7 @@ cd ~
 ````
 README.txt  README2.md
 ````sh
-chmod +x README.md
+chmod +rx README.md
 cat README2.md
 ````
 
