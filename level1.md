@@ -1,6 +1,6 @@
-#Training: Warchall - The Beginning
+# Training: Warchall - The Beginning
 
-###00_welcome
+## 00_welcome
 ```sh
 cd /home/level/00_welcome
 ls
