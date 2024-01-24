@@ -1,2 +1,0 @@
-# Training: Warchall - The Beginning
-
